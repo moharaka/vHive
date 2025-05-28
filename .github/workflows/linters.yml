@@ -1,7 +1,6 @@
 name: Linters
 on:
   push:
-    branches: [ main, legacy-firecracker-v0.24.0-with-upf-support ]
   pull_request:
     branches: [ main, legacy-firecracker-v0.24.0-with-upf-support ]
 

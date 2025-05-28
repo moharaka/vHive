@@ -2,7 +2,6 @@ name: Build and Test OpenYurt Deployer
 
 on:
     push:
-      branches: [ main, legacy-firecracker-v0.24.0-with-upf-support ]
       paths-ignore:
       - 'docs/**'
       - '**.md'
